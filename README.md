@@ -1,8 +1,11 @@
-# Final-Project-Data-Science 
-**Judul** : Sanitasi Layak Ekonomi Meningkat
+# Final-Project
+
+project ini digunakan untuk menyelesaikan final project [MSIB7] Data Science Track di Startup Campus
+
+**Judul** : SANITASI LAYAK EKONOMI MENINGKAT 💧💹
 
 
-**Problem Statement:**
+📢**Problem Statement:**
 
 Sanitasi layak menjadi salah satu faktor kunci dalam meningkatkan kualitas hidup dan mendukung pembangunan ekonomi suatu negara. Di Indonesia, meskipun rata-rata nasional akses sanitasi layak mencapai 82,36%, masih terdapat kesenjangan yang signifikan, terutama di wilayah Indonesia Timur. Kesenjangan ini sebagian besar disebabkan oleh faktor ekonomi yang membatasi kemampuan masyarakat untuk mengakses sanitasi yang memadai. Selain itu, tingginya angka buang air besar sembarangan (BABS), buruknya pengelolaan limbah cair, dan minimnya pengolahan sampah, memperburuk kondisi sanitasi yang ada dan berpotensi menimbulkan pencemaran lingkungan serta penyebaran penyakit.
 
