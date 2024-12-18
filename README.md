@@ -2,7 +2,7 @@
 
 project ini digunakan untuk menyelesaikan final project [MSIB7] Data Science Track di Startup Campus
 
-**Judul** : SANITASI LAYAK EKONOMI MENINGKAT 💧💹
+**Judul** : **SANITASI LAYAK EKONOMI MENINGKAT** 💧💹
 
 
 📢**Problem Statement:**
